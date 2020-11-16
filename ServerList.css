@@ -1,32 +1,7 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css);
-.da-guildsWrapper .scroller-wrap.da-scrollerWrap {
-    width: 196px;
-}
-
-.da-guildsWrapper {
-    width: 140px;
-}
-
-.da-guildsWrapper .scroller-wrap.da-scrollerWrap .da-guild {
-    float: left;
-    margin: 5px;
-}
-
-.da-guildsWrapper .scroller-wrap.da-scrollerWrap .da-guildSeparator {
-    width: 100%;
-    clear: both;
-}
-
-.da-guildsWrapper .scroller-wrap.da-scrollerWrap .da-guildSeparator:after {
-    left: 5px;
-    right: 5px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-}
-
-.da-guildsWrapper .scroller-wrap.da-scrollerWrap .da-guild.da-selected:before {
-    margin-left: 12px;
-    margin-top: -28px;
-    width: 56px;
-    height: 56px;
+:root {
+	--columns:			3;
+	--guildsize:		50;
+	--guildgap:			3;
+	--aligndms:			0;
 }
