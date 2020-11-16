@@ -1,19 +1,19 @@
 :root {
-    --title: 'Lightning v1';
-    --logo: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/Icon.png");
-    --background: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/Background.gif");
+    --title: 'E L Y S I A ';
+    --logo: url("https://goldenlys.github.io/ThemeGen/img/ELYSIA.gif");
+    --background: url("https://goldenlys.github.io/ThemeGen/img/bg.jpg");
     --font: 'Avignon', sans-serif;
-    --C1: rgb(150, 150, 150);
-    --C2: rgb(150, 150, 150);
+    --C1: rgb(130, 0, 216);
+    --C2: rgb(0, 225, 255);
     --StreamingColor: rgb(78, 0, 180);
     --Online: rgb(0, 255, 136);
-    --Idle: rgb(252, 252, 70);
+    --Idle: rgb(0, 99, 156);
     --Unavailable: rgb(228, 15, 0);
     --Offline: rgb(90, 95, 100);
-    --Playing: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/PlayingStatus.gif");
-    --Xbox: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/XboxStatus.gif");
-    --Spotify: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/SpotifyStatus.png");
-    --Streaming: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/StreamingStatus.png");
+    --Playing: url("https://goldenlys.github.io/ThemeGen/img/playing.jpg");
+    --Xbox: url("https://goldenlys.github.io/ThemeGen/img/xbox.jpg");
+    --Spotify: url("https://goldenlys.github.io/ThemeGen/img/spotify.jpg");
+    --Streaming: url("https://goldenlys.github.io/ThemeGen/img/twitch.jpg");
     --grey: rgb(77, 70, 85);
     --grey5: rgba(77, 70, 85, 0.5);
     --darkgrey: rgb(18, 18, 18);
@@ -35,21 +35,26 @@
     --Channel: '💬';
     --Voice: "🔊";
     --Announcement: "📣";
+    --Micro: "🎙️";
+    --Headset: "🎧";
     --Emoji: '🙂';
     --EmojiHover: '😜';
-    --Watermark: 'Lightning Theme⚡';
+    --Community: 'purpies';
+    --WelcomeMessage: "✨ Welcome to ELYSIA, designed by Purple Wizard.";
+    --Watermark: 'Made with 💖 by Purple Wizard';
     --EditStatus: 'Put another status';
     --WriteMessage: 'Write a message...';
     --TaggedName: 'YOU';
     --ListenAlong: 'Listen Along';
-	--Folders: "📁";
-	--FoldersOpen: "📁";
+    --Folders: '📁';
+    --FoldersOpen: '💠';
     --ServerSize: 45px;
-    --ServerColumns: 1.5;
-    --version: '1.0';
+    --ServerColumns: 1;
+    --version: '3.0';
     --Highlighted: var(--grey5);
     --ActiveBox: rgb(0, 255, 136);
 }
+
 .theme-light, .theme-dark {
     --header-primary: white;
     --header-secondary: white;
