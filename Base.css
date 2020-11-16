@@ -1,19 +1,19 @@
 :root {
-	--title: "Lightning v1";
-	--logo: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/Icon.png");
-	--background: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/Background.gif");
+    --title: "Lightning v1";
+    --logo: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/Icon.png");
+    --background: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/Background.gif");
     --font: 'Avignon', sans-serif;
-	--C1: rgb(150, 150, 150);
-	--C2: rgb(150, 150, 150);
+    --C1: rgb(150, 150, 150);
+    --C2: rgb(150, 150, 150);
     --StreamingColor: rgb(78, 0, 180);
     --Online: rgb(0, 255, 136);
     --Idle: rgb(0, 99, 156);
     --Unavailable: rgb(228, 15, 0);
     --Offline: rgb(90, 95, 100);
     --Playing: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/PlayingStatus.gif");
-	--Xbox: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/XboxStatus.gif");
-	--Spotify: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/SpotifyStatus.png");
-	--Streaming: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/StreamingStatus.png");
+    --Xbox: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/XboxStatus.gif");
+    --Spotify: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/SpotifyStatus.png");
+    --Streaming: url("https://raw.githubusercontent.com/stolenbro/BetterDiscord-Lightning/main/Images/StreamingStatus.png");
     --grey: rgb(77, 70, 85);
     --grey5: rgba(77, 70, 85, 0.5);
     --darkgrey: rgb(18, 18, 18);
